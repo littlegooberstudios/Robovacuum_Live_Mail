@@ -35,7 +35,7 @@
     },
     {
       "id": "test_001",
-      "title": "Send Message Test",
+      "title": "Message Test",
       "body": "Send test message on live mail.",
       "createdUnix": 0,
       "expiresUnix": 0,
