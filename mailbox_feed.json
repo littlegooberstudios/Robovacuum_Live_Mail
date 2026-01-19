@@ -6,6 +6,8 @@
       "body": "Thanks for playing this game!",
       "createdUnix": 1768790400,
       "expiresUnix": 0,
+      "expireDays": 0,
+      "firstSeenUnix": 0,
       "claimed": false,
       "coinReward": 200
     },
@@ -15,6 +17,8 @@
       "body": "Here’s 100 coins to show my appreciation!",
       "createdUnix": 1768790400,
       "expiresUnix": 0,
+      "expireDays": 0,
+      "firstSeenUnix": 0,
       "claimed": false,
       "coinReward": 100
     },
@@ -22,8 +26,10 @@
       "id": "welcome_002",
       "title": "Enjoy our game!",
       "body": "Here's 50 coins to get you started.",
-      "createdUnix": 1768865371,
-      "expiresUnix": 1769470171,
+      "createdUnix": 0,
+      "expiresUnix": 0,
+      "expireDays": 7,
+      "firstSeenUnix": 0,
       "claimed": false,
       "coinReward": 50
     }
