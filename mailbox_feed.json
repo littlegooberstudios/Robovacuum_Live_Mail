@@ -1,22 +1,31 @@
 {
   "messages": [
     {
-      "id": "welcome_001",
-      "title": "Welcome!",
-      "body": "Thanks for playing 💛",
+      "id": "thankyou_001",
+      "title": "Thank you!",
+      "body": "Thanks for playing this game!",
       "createdUnix": 1768790400,
       "expiresUnix": 0,
       "claimed": false,
-      "coinReward": 0
+      "coinReward": 200
     },
     {
-      "id": "valentines_2026",
-      "title": "Happy Valentine’s!",
-      "body": "A little gift for you 💝",
-      "createdUnix": 1771113600,
-      "expiresUnix": 1771718399,
+      "id": "welcome_001",
+      "title": "Welcome!",
+      "body": "Here’s 100 coins to show my appreciation!",
+      "createdUnix": 1768790400,
+      "expiresUnix": 0,
       "claimed": false,
-      "coinReward": 200
+      "coinReward": 100
+    },
+    {
+      "id": "welcome_002",
+      "title": "Enjoy our game!",
+      "body": "Here's 50 coins to get you started.",
+      "createdUnix": 1768865371,
+      "expiresUnix": 1769470171,
+      "claimed": false,
+      "coinReward": 50
     }
   ]
 }
