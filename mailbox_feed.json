@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "id": "welcome_001",
+      "title": "Welcome!",
+      "body": "Thanks for playing 💛",
+      "createdUnix": 1768790400,
+      "expiresUnix": 0,
+      "claimed": false,
+      "coinReward": 0
+    },
+    {
+      "id": "valentines_2026",
+      "title": "Happy Valentine’s!",
+      "body": "A little gift for you 💝",
+      "createdUnix": 1771113600,
+      "expiresUnix": 1771718399,
+      "claimed": false,
+      "coinReward": 200
+    }
+  ]
+}
