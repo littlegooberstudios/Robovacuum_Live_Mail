@@ -32,28 +32,6 @@
       "firstSeenUnix": 0,
       "claimed": false,
       "coinReward": 50
-    },
-    {
-      "id": "test_001",
-      "title": "Message Test",
-      "body": "Send test message on live mail.",
-      "createdUnix": 0,
-      "expiresUnix": 0,
-      "expireDays": 3,
-      "firstSeenUnix": 0,
-      "claimed": false,
-      "coinReward": 0
-    },
-    {
-      "id": "test_002",
-      "title": "Message Test 2",
-      "body": "Send test message on live mail.",
-      "createdUnix": 0,
-      "expiresUnix": 0,
-      "expireDays": 3,
-      "firstSeenUnix": 0,
-      "claimed": false,
-      "coinReward": 0
     }
   ]
 }
