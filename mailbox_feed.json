@@ -34,9 +34,9 @@
       "coinReward": 50
     },
     {
-      "id": "test_001",
-      "title": "Message Test",
-      "body": "Send test message on live mail.",
+      "id": "welcome_003",
+      "title": "Woohoo!",
+      "body": "Welcome to RoboVacuum!",
       "createdUnix": 0,
       "expiresUnix": 0,
       "expireDays": 3,
